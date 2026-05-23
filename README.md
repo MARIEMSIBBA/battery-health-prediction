@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 Execute the main training and prediction pipeline:
 
@@ -173,7 +173,7 @@ Classifies batteries into health categories:
 
 ---
 
-## 🧪 Example Workflow
+## Example Workflow
 
 ```text
 Battery Dataset
