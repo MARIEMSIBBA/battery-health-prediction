@@ -66,8 +66,8 @@ This project uses Machine Learning techniques to analyze battery operational dat
 ```bash
 battery-health-prediction/
 │
-├──Battery_dataset.csv(Dataset)
-│
+├──Battery_dataset.csv(Dataset) # Dataset built and processed from the NASA Battery Dataset
+│                              
 ├── model/
 │   ├── battery_classifier.pkl
 │   ├── scaler.pkl
